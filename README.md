@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[react-zendesk](https://www.npmjs.com/package/react-zendesk)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
