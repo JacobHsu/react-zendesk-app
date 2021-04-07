@@ -1,8 +1,17 @@
 # Getting Started with Create React App
 
-[react-zendesk](https://www.npmjs.com/package/react-zendesk)
+[react-zendesk](https://www.npmjs.com/package/react-zendesk)  
+[Web Widget (Classic)](https://developer.zendesk.com/embeddables/docs/widget/core#commands)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)  
+[$zopim.livechat.window](https://api.zopim.com/files/meshim/widget/controllers/liveChatAPI/Window-js.html)  
+
+## Debug
+
+> 'node-gyp-build' 不是內部或外部命令、可執行的程式或批次檔。  
+`npm i node-gyp-build`
+
+[npm install 报错（npm ERR! errno -4048，Error: EPERM: operation not permitted）](https://blog.csdn.net/qq_35624642/article/details/78393035)
 
 ## Available Scripts
 
